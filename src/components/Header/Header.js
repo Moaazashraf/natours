@@ -14,6 +14,9 @@ function Header() {
           <span className={styles.mainHeading}>out doors</span>
           <span className={styles.subHeading}>is where life happens</span>
         </h1>
+        <a href="#" className={`${styles.btn} ${styles.btnWhite}`}>
+          Discover our tours
+        </a>
       </div>
     </div>
   );
